@@ -21,6 +21,9 @@ const Navbar = () => {
         <NavLink to="/About">
           <li>About</li>
         </NavLink>
+        <NavLink to="/jobs">
+          <li>Jobs</li>
+        </NavLink>
       </ul>
       <button onClick={() => navigate("/Contact", { replace: true })}>
         Get started

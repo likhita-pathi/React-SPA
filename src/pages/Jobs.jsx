@@ -19,6 +19,6 @@ const Jobs = () => {
 
 export default Jobs;
 export const JobsLoader = async () => {
-  const res = await fetch("http://localhost:5001/jobs");
+  const res = await fetch("http://localhost:5000/jobs");
   return res.json();
 };

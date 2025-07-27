@@ -30,7 +30,7 @@ const JobDetails = () => {
 export default JobDetails;
 export const JobDetailsLoader = async ({ params }) => {
   const { id } = params;
-  const res = await fetch("http://localhost:5001/jobs/" + id);
+  const res = await fetch("http://localhost:5000/jobs/" + id);
 
   const data = await res.json();
   return data;
