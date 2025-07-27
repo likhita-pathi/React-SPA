@@ -1,0 +1,34 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Sr . React devloper",
+      "salary": 60000,
+      "location": "Usa"
+    },
+    {
+      "id": 2,
+      "title": "Frontend devloper",
+      "salary": 60000,
+      "location": "Usa"
+    },
+    {
+      "id": 3,
+      "title": "Backend devloper",
+      "salary": 60000,
+      "location": "Usa"
+    },
+    {
+      "id": 4,
+      "title": "Full stact devloper",
+      "salary": 60000,
+      "location": "Usa"
+    },
+    {
+      "id": 5,
+      "title": "Software devloper",
+      "salary": 60000,
+      "location": "Usa"
+    }
+  ]
+}
